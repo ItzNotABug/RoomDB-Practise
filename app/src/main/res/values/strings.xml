@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomDB-Practise</string>
+    <string name="delete_all">Delete All</string>
+    <string name="no_items_added_yet">No Items Added Yet\nPress the FAB to add an Item</string>
+
+    <!--
+        Android 7.0 or something has this fontFamily bug which leads to Crash
+        if only `serif` is passed as the argument
+    -->
+    <string name="serif">serif</string>
+</resources>
